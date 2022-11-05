@@ -5,7 +5,8 @@ a {
     margin: 50px 0 0 0;
 }
 img {
-    width: 100% !important;
+    width: 25% !important;
+    float: left;
 }
 .text-white:hover {
     color: red !important;
